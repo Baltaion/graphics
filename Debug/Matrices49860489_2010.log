@@ -1,0 +1,34 @@
+﻿  Matrices49860489.cpp
+c:\users\bata\documents\matrices49860489\matrices49860489.cpp(592): warning C4100: 'lpCmdLine': unreferenced formal parameter
+c:\users\bata\documents\matrices49860489\matrices49860489.cpp(591): warning C4100: 'hPrevInstance': unreferenced formal parameter
+c:\users\bata\documents\matrices49860489\matrices49860489.cpp(825): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bata\documents\matrices49860489\matrices49860489.cpp(830): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bata\documents\matrices49860489\matrices49860489.cpp(835): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bata\documents\matrices49860489\matrices49860489.cpp(840): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bata\documents\matrices49860489\matrices49860489.cpp(878): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bata\documents\matrices49860489\matrices49860489.cpp(889): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bata\documents\matrices49860489\matrices49860489.cpp(900): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bata\documents\matrices49860489\matrices49860489.cpp(911): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bata\documents\matrices49860489\matrices49860489.cpp(922): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bata\documents\matrices49860489\matrices49860489.cpp(929): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bata\documents\matrices49860489\matrices49860489.cpp(936): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bata\documents\matrices49860489\matrices49860489.cpp(943): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bata\documents\matrices49860489\matrices49860489.cpp(983): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bata\documents\matrices49860489\matrices49860489.cpp(994): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bata\documents\matrices49860489\matrices49860489.cpp(1005): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bata\documents\matrices49860489\matrices49860489.cpp(1016): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bata\documents\matrices49860489\matrices49860489.cpp(1053): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bata\documents\matrices49860489\matrices49860489.cpp(1064): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bata\documents\matrices49860489\matrices49860489.cpp(1075): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bata\documents\matrices49860489\matrices49860489.cpp(1086): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bata\documents\matrices49860489\matrices49860489.cpp(1123): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bata\documents\matrices49860489\matrices49860489.cpp(1134): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bata\documents\matrices49860489\matrices49860489.cpp(1145): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bata\documents\matrices49860489\matrices49860489.cpp(1156): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bata\documents\matrices49860489\matrices49860489.cpp(1193): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bata\documents\matrices49860489\matrices49860489.cpp(1204): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bata\documents\matrices49860489\matrices49860489.cpp(1215): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bata\documents\matrices49860489\matrices49860489.cpp(1226): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bata\documents\matrices49860489\matrices49860489.cpp(121): warning C4715: 'Hero::check_collision': not all control paths return a value
+  Matrices49860489_2010.vcxproj -> C:\Users\BATA\Documents\Matrices49860489\Debug\Matrices49860489.exe
+  Matrices49860489_2010.vcxproj -> C:\Users\BATA\Documents\Matrices49860489\Debug\Matrices49860489.pdb (Full PDB)
